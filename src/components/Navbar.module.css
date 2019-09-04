@@ -1,0 +1,16 @@
+.nav{
+    grid-area: n;
+    background-color: #303030;
+    
+
+}  
+.item{
+    color: #26ad9f;
+    font-size: 25px;
+    border-bottom: 1px solid #49494b;
+    margin: 10px 30px;
+    cursor: pointer;
+}
+.item.active{
+    color:rgb(224, 255, 252);
+}
