@@ -1,9 +1,3 @@
- .item {
-   color: green;
-   font-size: 30px;
- }
-
-
 .content{
     grid-area: c;
     background-color: cornflowerblue;
